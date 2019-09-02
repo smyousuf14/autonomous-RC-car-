@@ -11,6 +11,12 @@ A Raspberry pi 3 model b+ was used in order to recived video input from the pi c
 ![test2](https://user-images.githubusercontent.com/44485548/64124484-1fce6b00-cd75-11e9-86eb-e55104bbdc57.jpg)
 
 
+# Future Improvements
+Some improvements that could be made to this project is to make it protable by using a protable battery supply. We tried to achieve this with a 5V power bank, however, although it powered up the PI, it did not have enough current to power the Pi camera, Arduino, HDMI port and the Keyboard, which was all use to setup the project.
+
+Other improvements could involve adding more things for the car to detect, i.e: red light, green light, other vehicles, turning left/right. 
+
+For now the project is finished, but we might work on an improved version of it at a later date. 
 
 
 
