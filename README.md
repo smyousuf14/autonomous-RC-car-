@@ -1,5 +1,7 @@
 # autonomous-RC-car-
 
+Group project: Me(Syed Yousuf), Junaid, and Thusi
+
 ![test1](https://user-images.githubusercontent.com/44485548/64124165-450ea980-cd74-11e9-9a04-7ed567915ea6.jpg)
 
 # Goal:
